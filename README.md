@@ -8,6 +8,8 @@ Furthermore, I'm well-versed in crafting entertaining Discord bots and proficien
 
 I also possess a solid grasp of fundamental and intermediate skills in SQLite and understand the Git flow. 📊🔄
 
+Looking for Interships to get some experience on board and put my skillset to good use.🧑🏻‍💻
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Iamhuzaifasabahuddin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-sabah-uddin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
