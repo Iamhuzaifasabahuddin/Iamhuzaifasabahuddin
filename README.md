@@ -15,6 +15,7 @@ As I strive to elevate my proficiency in backend development professionally, I'm
 <a href="https://www.linkedin.com/in/huzaifa-sabah-uddin/"><img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 ## **Skills and Tools**
+<br>
 <div align="center">
   <table>
     <thead>
@@ -39,13 +40,19 @@ As I strive to elevate my proficiency in backend development professionally, I'm
     <tr>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> 
+      <td align="center" width=110></td>
+      <td align="center" width=110></td>
+      <td align="center" width=110></td>
       </td>
     <tr> 
       <td align="center" width=110><strong>MySQL</strong></td>
       <td align="center" width=110><strong>SQLite</strong></td>
+      <td align="center" width=110></td>
+      <td align="center" width=110></td>
+      <td align="center" width=110></td>
     </tr>
   </table>
-
+  <br>
   <table>
     <thead>
       <tr>
@@ -68,10 +75,12 @@ As I strive to elevate my proficiency in backend development professionally, I'm
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> </td>
+      <td align="center" width=110></td>
       <tr align="center"> 
         <td align="center" width=110><strong>Bootstrap</td>
         <td align="center" width=110><strong>JQuery</td>
         <td align="center" width=110><strong>Numpy</td>
+        <td align="center" width=110></td>
       </tr>
     </tr>
   </table>
@@ -86,11 +95,13 @@ As I strive to elevate my proficiency in backend development professionally, I'm
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> </td>
+      <td align="center" width=110></td>
     </tr>
     <tr> 
       <td align="center" width=110><strong>Git</td>
       <td align="center" width=110><strong>GitHub</td>
       <td align="center" width=110><strong>Git Lab</td>
+      <td align="center" width=110></td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
@@ -108,13 +119,16 @@ As I strive to elevate my proficiency in backend development professionally, I'm
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
+      <td align="center" width=110></td>
     </tr>
     <tr> 
       <td align="center" width=110><strong>Railway</td>
       <td align="center" width=110><strong>Docker</td>
       <td align="center" width=110><strong>Figma</td>
+      <td align="center" width=110></td>
     </tr>
   </table>
+  <br>
   <table>
     <thead>
       <tr>
