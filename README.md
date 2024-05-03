@@ -41,8 +41,8 @@ As I strive to elevate my proficiency in backend development professionally, I'm
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> 
       </td>
     <tr> 
-      <td align="center" width=110><strong>MySQL</td>
-      <td align="center" width=110><strong><strong>SQLite</td>
+      <td align="center" width=110><strong>MySQL</strong></td>
+      <td align="center" width=110><strong>SQLite</strong></td>
     </tr>
   </table>
 
