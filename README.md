@@ -1,6 +1,6 @@
 # *HEY THERE 👋🏼, HUZAIFA HERE 🤜🏼🤛🏼*  
 ## 💫 **About Me**
-👨🏻‍🎓As a final-year student at the University of Leicester, my coding journey has been fueled by a lifelong passion. Python has been my loyal companion 🐍, and I'm constantly pushing the boundaries of my knowledge, especially in Pandas, NumPy, and Matplotlib.
+👨🏻‍🎓As a Backend enthusiast, my coding journey has been fueled by a lifelong passion. Python has been my loyal companion 🐍, and I'm constantly pushing the boundaries of my knowledge, especially in Pandas, NumPy, and Matplotlib.
 
 I'm enthusiastic about backend development and crafting entertaining Discord bots 🤖. With proficiency in Google APIs for Calendar and Drive integration, I'm expanding my horizons by learning Java ☕ and exploring frameworks like Spring Boot for web development and creating RESTful APIs.
 
