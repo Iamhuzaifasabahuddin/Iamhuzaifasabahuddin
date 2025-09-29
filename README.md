@@ -1,12 +1,12 @@
 # *HEY THERE 👋🏼, HUZAIFA HERE 🤜🏼🤛🏼*  
 ## 💫 **About Me**
-👨🏻‍🎓As a Backend enthusiast, my coding journey has been fueled by a lifelong passion. Python has been my loyal companion 🐍, and I'm constantly pushing the boundaries of my knowledge, especially in Pandas, NumPy, and Matplotlib.
+👨🏻‍🎓 As a backend enthusiast, my coding journey is fueled by a lifelong passion for problem-solving and software development. Python 🐍 is my go-to language, and I integrate it into my daily life—whether automating Google Sheets, building interactive dashboards with Streamlit, or experimenting with data visualization using Pandas, NumPy, and Matplotlib.
 
-I'm enthusiastic about backend development and crafting entertaining Discord bots 🤖. With proficiency in Google APIs for Calendar and Drive integration, I'm expanding my horizons by learning Java ☕ and exploring frameworks like Spring Boot for web development and creating RESTful APIs.
+I also enjoy working with Java ☕ and exploring frameworks like Spring Boot to create RESTful APIs and web applications, expanding my skill set beyond Python. Crafting engaging Discord bots 🤖 and leveraging Google APIs for Calendar and Drive integration are among my favorite projects.
 
-Solid skills in SQL (MySQL & SQLite3) and Git (GitHub & GitLab) 📊🔄, combined with experience in software development methodologies like Scrum and Agile, make me a valuable asset in collaborative environments.
+My solid foundation in SQL (MySQL & SQLite3) and Git (GitHub & GitLab) 📊🔄, combined with experience in Agile and Scrum methodologies, allows me to thrive in collaborative environments.
 
-As I strive to elevate my proficiency in backend development professionally, I'm eager to embark on internship opportunities to apply and enhance my skill set while making a meaningful impact. Let's collaborate and shape the future through code! 💻🚀
+I’m eager to elevate my backend development skills professionally and contribute to meaningful projects through internship opportunities. Let’s collaborate and shape the future through code! 💻🚀
 
 
 
