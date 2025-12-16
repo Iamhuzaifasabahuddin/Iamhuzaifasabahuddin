@@ -139,7 +139,7 @@ I'd love to collaborate on projects, discuss tech, or explore new opportunities!
 - 📧 **Email**: [huzaifa.sabahuddin@example.com](mailto:huzaifa.sabahuddin@example.com)
 - 💼 **LinkedIn**: [linkedin.com/in/huzaifa-sabahuddin](https://linkedin.com/in/huzaifa-sabahuddin)
 - 🐦 **Twitter**: [@HuzaifaSabah](https://twitter.com/HuzaifaSabah)
-- 🌐 **Portfolio**: [huzaifa-portfolio.vercel.app]([https://huzaifa-portfolio.vercel.app](https://iamhuzaifasabahuddin.github.io/Portfolio/))
+- 🌐 **Portfolio**: [iamhuzaifasabahuddin.github.io](https://iamhuzaifasabahuddin.github.io/Portfolio/))
 
 ---
 
