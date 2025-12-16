@@ -21,31 +21,26 @@ I thrive on tackling challenging projects, contributing to open-source communiti
 
 ### **Languages**
 - **Python** (Primary - Expert level)
-- **JavaScript/TypeScript** (Intermediate)
+- **Java** (Intermediate)
 - **SQL** (Advanced)
-- **Bash/Shell** (Advanced)
 
 ### **Backend & Frameworks**
-- **Node.js** & **Express.js**
-- **Django** & **Flask**
-- **REST APIs** & **GraphQL**
-- **FastAPI**
+- **Spring Boot**
+- **Flask**
+- **REST APIs**
 
 ### **Frontend**
-- **React** / **Vue.js**
 - **Streamlit** (for data apps)
-- **HTML5, CSS3, Tailwind CSS**
+- **HTML5, CSS3**
 
 ### **DevOps & Automation**
 - **GitHub Actions** (CI/CD pipelines)
-- **Docker** & **Docker Compose**
+- **Docker**
 - **GitHub API** & **Automation Scripts**
 - **Notion API** & **Slack SDK**
 
 ### **Databases & Data**
-- **MongoDB** (NoSQL)
-- **PostgreSQL** & **MySQL** (SQL)
-- **Firebase** (Real-time DB)
+- **MySQL** (SQL)
 - **Google Sheets API**
 
 ### **Cloud & Tools**
