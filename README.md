@@ -1,4 +1,4 @@
-# 👋 Hey there!  I'm Huzaifa Sabahuddin
+# 👋 Hey there!  I'm Huzaifa Sabah Uddin
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer & Automation Specialist** with a keen interest in **DevOps, Backend Development, and Intelligent Automation**. I love building scalable solutions, automating workflows, and solving complex problems through code.
 
