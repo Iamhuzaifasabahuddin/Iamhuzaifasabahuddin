@@ -22,9 +22,9 @@ I thrive on tackling challenging projects, contributing to open-source communiti
 ### **Languages**
 - **Python** (Primary - Expert level)
 - **Java** (Intermediate)
-- **SQL** (Advanced)
 
 ### **Backend & Frameworks**
+- **Django**
 - **Spring Boot**
 - **Flask**
 - **REST APIs**
@@ -41,12 +41,12 @@ I thrive on tackling challenging projects, contributing to open-source communiti
 
 ### **Databases & Data**
 - **MySQL** (SQL)
+- **PostgresSQL**
 - **Google Sheets API**
 
 ### **Cloud & Tools**
 - **Google Cloud Platform**
 - **Git & GitHub**
-- **VS Code**
 - **Postman** (API testing)
 
 ---
@@ -183,6 +183,6 @@ I believe in writing clean, maintainable code; building robust systems; and cons
 
 ---
 
-*Last updated: December 2025*
+*Last updated: June 2026*
 
 ⭐ **If you find my work interesting, feel free to star my repositories and reach out!** Let's build something amazing together!  🚀
