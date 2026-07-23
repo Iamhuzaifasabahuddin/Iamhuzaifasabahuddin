@@ -1,188 +1,258 @@
-# 👋 Hey there!  I'm Huzaifa Sabah Uddin
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Huzaifa+Sabah+Uddin;Backend+Engineer+%26+System+Architect;4+Production+Systems+%7C+%2415.6K%2Fyr+Saved" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer & Automation Specialist** with a keen interest in **DevOps, Backend Development, and Intelligent Automation**. I love building scalable solutions, automating workflows, and solving complex problems through code.
+<div align="center">
+  <a href="https://iamhuzaifasabahuddin.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:huzaifasabah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/huzaifa-sabah-uddin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Iamhuzaifasabahuddin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
----
+<br />
 
-## 🚀 About Me
-
-I'm a dedicated developer with a **photographic memory** 📸, which gives me a unique advantage in retaining complex technical concepts and quickly understanding intricate systems. My passion lies in: 
-
-- **Backend Development**:  Building robust APIs, microservices, and data pipelines
-- **DevOps & Automation**: Streamlining workflows with GitHub Actions, CI/CD pipelines, and infrastructure automation
-- **Data Engineering**: Processing, cleaning, and transforming large-scale data
-- **Full Stack Solutions**: Creating end-to-end applications that solve real-world problems
-
-I thrive on tackling challenging projects, contributing to open-source communities, and continuously learning emerging technologies. 
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-- **Python** (Primary - Expert level)
-- **Java** (Intermediate)
-
-### **Backend & Frameworks**
-- **Django**
-- **Spring Boot**
-- **Flask**
-- **REST APIs**
-
-### **Frontend**
-- **Streamlit** (for data apps)
-- **HTML5, CSS3**
-
-### **DevOps & Automation**
-- **GitHub Actions** (CI/CD pipelines)
-- **Docker**
-- **GitHub API** & **Automation Scripts**
-- **Notion API** & **Slack SDK**
-
-### **Databases & Data**
-- **MySQL** (SQL)
-- **PostgresSQL**
-- **Google Sheets API**
-
-### **Cloud & Tools**
-- **Google Cloud Platform**
-- **Git & GitHub**
-- **Postman** (API testing)
+```python
+>>> import huzaifa
+Initializing profile...
+>>> huzaifa.title
+'Backend Engineer & System Architect'
+>>> huzaifa.systems.count
+4
+>>> huzaifa.impact()
+{'revenue': '$92.9K', 'savings': '$15.6K', 'cost_reduction': '94%'}
+>>> huzaifa.deadline_record
+'100% — zero missed'
+>>> huzaifa.motto
+'Build systems, not just code. Automate workflows, not just tasks.'
+```
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
-### 1. **[Hexz_Automations - BudgetHexz](https://github.com/Iamhuzaifasabahuddin/Hexz_Automations/blob/4c9cd8315f22d3784e03203c8a30397567669a44/BudgetHexz.py)** 💰
-A **personal budget tracker** that demonstrates data management and user authentication. Features include:
-- 🔐 Secure password-protected login
-- 💸 Real-time expense & income tracking
-- 📊 Advanced filtering (by month, category, transaction type)
-- 🗄️ Persistent data storage via **Notion API**
-- 🎨 Intuitive Streamlit UI with category breakdowns
-- 📱 Transaction preview before submission
+### 00 &nbsp;—&nbsp; FLAGSHIP &nbsp;·&nbsp; Multi-tenant PM Engine
 
-**Tech**: Python, Streamlit, Notion Client, PyTZ, Pandas, Secrets Management
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PgBouncer-2F2F2F?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</div>
 
----
+A custom-built, production **multi-tenant PM platform** serving **4 active client organisations** — replacing Basecamp, Asana, Trello, and Slack bots at roughly **94% lower monthly cost**, saving **$15.6K/year** in SaaS licensing.
 
-### 2. **[BlinkDigitally - Publishing Dashboard](https://github.com/Iamhuzaifasabahuddin/BlinkDigitally/blob/fe27dc98f1472c00bca61caf3d8d7468b2afc4b0/App_Streamlit.py)** 📊
-A **comprehensive publishing analytics platform** that transforms raw data into actionable insights. This is a production-grade dashboard featuring:
-- 📈 Real-time data fetching from **Google Sheets** API
-- 📋 Multi-sheet data aggregation (USA, UK, Audio, Printing, Copyright, A+, Sales)
-- 🎯 Advanced filtering (monthly, yearly, by brand, by platform)
-- 📊 Interactive visualizations with **Plotly** (bar charts, pie charts, gauges)
-- 🔍 Client search & similarity detection (duplicate clients across months)
-- 📥 Excel export functionality for reports
-- 📑 PDF report generation with **ReportLab**
-- 💾 Intelligent caching for performance optimization
+Architected on Django + PostgreSQL with PgBouncer connection pooling (150+ concurrent connections), Celery + Redis for async task pipelines (Slack notifications, email dispatch, file processing), and a Slack API integration hub for real-time DM notifications. Features browser-direct S3 uploads via presigned URLs, dynamic team provisioning, role-based access control (admin/dev/designer), Django Signals-driven activity feeds, and real-time financial/task auditing across all tenants — all served from a unified codebase with per-schema multi-tenancy. Containerised and deployed on Railway with automated CI/CD.
 
-**Tech**: Python, Streamlit, Pandas, Gspread, Plotly, ReportLab, Google Sheets API
+<div align="right">
+  <a href="https://iamhuzaifasabahuddin.github.io/Portfolio/"><strong>Learn more →</strong></a>
+</div>
 
 ---
 
-### 3. **[BlinkDigitallyTickets - Ticket Management System](https://github.com/Iamhuzaifasabahuddin/BlinkDigitallyTickets/blob/83b1e34731e7b7fbc4596fa220cde7f3d1719bfd/streamlit_app.py)** 🎫
-An **intelligent ticket management platform** showcasing **DevOps automation** and **backend integration**. Key features:
-- 🔐 Admin authentication & role-based access control
-- ➕ Dynamic ticket creation with auto-incrementing IDs
-- ✏️ Real-time ticket updates with change tracking
-- 🔔 **Automated Slack notifications** for ticket creators & assignees
-- 📧 Smart notification system with formatted messages
-- 📅 Monthly ticket filtering & aggregation
-- 🏷️ Ticket categorization (Normal vs Personal)
-- 💾 Persistent storage via **Notion API**
-- 🤖 **GitHub Actions integration** for daily automated reminders
+### 01 &nbsp;—&nbsp; BlinkDigitally &nbsp;·&nbsp; Publishing Dashboard
 
-**Tech**: Python, Streamlit, Notion Client, Slack SDK, Environment Variables, Secrets Management
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+</div>
 
----
+A **production-grade publishing analytics platform** (~6,000 LOC) that saves an editorial team 12+ hours/week on manual reporting. Real-time data fetching from Google Sheets API, multi-sheet aggregation (USA, UK, Audio, Printing, Copyright, A+, Sales), interactive Plotly visualisations, duplicate client detection, Excel/PDF report generation, and intelligent caching for performance optimisation.
 
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamhuzaifasabahuddin&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamhuzaifasabahuddin&layout=compact&theme=radical)
+<div align="right">
+  <a href="https://github.com/Iamhuzaifasabahuddin/BlinkDigitally"><strong>Repository →</strong></a>
+</div>
 
 ---
 
-## 🎯 Currently Learning & Exploring
+### 02 &nbsp;—&nbsp; BlinkDigitallyTickets &nbsp;·&nbsp; Ticket Management
 
-- 🔄 **DevOps & CI/CD Pipelines**:  Advanced GitHub Actions workflows, Docker containerization, and deployment automation
-- 🏗️ **Backend Architecture**:  Microservices design patterns, scalable APIs, and system design
-- ☸️ **Kubernetes**: Orchestration, scaling, and container management
-- 🔐 **Cloud Infrastructure**: AWS, GCP, and cloud-native development
-- 📡 **Message Queues**: RabbitMQ, Apache Kafka for event-driven architectures
-- 🧪 **Testing & Quality**: Unit testing, integration testing, and CI/CD best practices
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+</div>
 
----
+An **intelligent ticket management platform** processing 200+ active tickets across distributed teams. Admin authentication, dynamic ticket creation with auto-incrementing IDs, real-time updates with change tracking, automated Slack notifications, GitHub Actions-driven daily reminders, and persistent storage via Notion API. Reduced overdue items by **40%** in the first month.
 
-## 💡 What Interests Me
-
-✨ **Backend Systems**: Designing robust, scalable server architectures  
-🤖 **Automation**: Building intelligent workflows that eliminate repetitive tasks  
-📊 **Data Engineering**: ETL pipelines, data transformation, and analytics  
-🔐 **System Security**: Authentication, authorization, and secure data handling  
-🚀 **DevOps**: Infrastructure as Code, containerization, and deployment pipelines  
+<div align="right">
+  <a href="https://github.com/Iamhuzaifasabahuddin/BlinkDigitallyTickets"><strong>Repository →</strong></a>
+</div>
 
 ---
 
-## 🌐 Let's Connect! 
+### 03 &nbsp;—&nbsp; Hexz_Automations &nbsp;·&nbsp; BudgetHexz
 
-I'd love to collaborate on projects, discuss tech, or explore new opportunities! 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</div>
 
-- 📧 **Email**: [huzaifa.sabahuddin@example.com](mailto:huzaifa.sabahuddin@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/huzaifa-sabahuddin](https://linkedin.com/in/huzaifa-sabahuddin)
-- 🐦 **Twitter**: [@HuzaifaSabah](https://twitter.com/HuzaifaSabah)
-- 🌐 **Portfolio**: [iamhuzaifasabahuddin.github.io](https://iamhuzaifasabahuddin.github.io/Portfolio/)
+A **personal budget tracker** with secure password-protected login, real-time expense & income tracking, advanced filtering (by month, category, transaction type), persistent data storage via Notion API, and an intuitive Streamlit UI with category breakdowns.
 
----
-
-## 🤝 Open To
-
-- **Collaboration** on exciting projects (especially DevOps, backend, or automation)
-- **Freelance opportunities** for custom solutions
-- **Open-source contributions** in Python, Node.js, and DevOps tools
-- **Technical discussions** about system design and best practices
+<div align="right">
+  <a href="https://github.com/Iamhuzaifasabahuddin/Hexz_Automations"><strong>Repository →</strong></a>
+</div>
 
 ---
 
-## 📈 Current Projects & Contributions
+## Impact by the Numbers
 
-- 🔧 Contributing to **automation frameworks** and **DevOps tooling**
-- 📚 Building **educational content** on backend development
-- 🚀 Developing **production-grade Streamlit applications**
-- 💻 Exploring **cloud-native architectures** and **containerization**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/%2415.6K-saved%2Fyear-2EA043?style=for-the-badge" /><br />
+        <sub>Annual tooling cost savings</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/4-production%20systems-58A6FF?style=for-the-badge" /><br />
+        <sub>Running live today</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/%2492.9K-revenue%20tracked-DAA520?style=for-the-badge" /><br />
+        <sub>Protected across 44 disputes</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/5-tools%20replaced-E85D2C?style=for-the-badge" /><br />
+        <sub>By a single engine</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/94%25-cost%20reduction-2EA043?style=for-the-badge" /><br />
+        <sub>$1,400/mo → $90/mo</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/100%25-deadline%20record-2EA043?style=for-the-badge" /><br />
+        <sub>Zero missed</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## ⭐ Fun Fact
+## Tech Stack
 
-I have a **photographic memory** 📸, which allows me to rapidly absorb complex technical documentation, retain intricate system architectures, and quickly navigate large codebases. This unique ability helps me tackle challenging backend problems and learn new DevOps tools at an accelerated pace!
+<div align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+### Backend & Frameworks
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+### Databases & Data Layer
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PgBouncer-2F2F2F?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### Async & Messaging
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis_Broker-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
+### DevOps & Cloud
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+</div>
 
 ---
 
+## GitHub Analytics
 
-## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamhuzaifasabahuddin&theme=github_dark" width="95%" alt="Profile Details" />
+</div>
 
-- ✅ Built **3 production-grade Streamlit applications** serving real business needs
-- ✅ Integrated **Notion API** and **Google Sheets API** for seamless data sync
-- ✅ Implemented **Slack automation** for team notifications
-- ✅ Designed **automated workflows** using GitHub Actions
-- ✅ Created **PDF report generation** systems with Python
-- ✅ Developed **multi-sheet data aggregation** pipelines
-
----
-
-
-## 💪 My Philosophy
-
-> *"Build systems, not just code.  Automate workflows, not just tasks. Engineer solutions that scale."*
-
-I believe in writing clean, maintainable code; building robust systems; and constantly pushing the boundaries of what's possible with technology. 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamhuzaifasabahuddin&theme=github_dark" height="170em" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamhuzaifasabahuddin&theme=github_dark" height="170em" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamhuzaifasabahuddin&theme=github_dark" height="170em" alt="Commits" />
+</div>
 
 ---
 
-*Last updated: June 2026*
+## Currently Exploring
 
-⭐ **If you find my work interesting, feel free to star my repositories and reach out!** Let's build something amazing together!  🚀
+<div align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=protocols.io&logoColor=white" />
+</div>
+
+- Advanced CI/CD pipelines & GitHub Actions workflows
+- Kubernetes orchestration & container management
+- Microservices design patterns & scalable APIs
+- RabbitMQ & Apache Kafka for event-driven architectures
+- Cloud-native development on AWS & GCP
+
+---
+
+## What I Do
+
+| Area | Focus |
+|---|---|
+| **Backend Architecture** | Django, FastAPI, Spring Boot — scalable server systems |
+| **Automation** | Workflow engineering, Slack bots, CI/CD pipelines |
+| **Data Engineering** | ETL pipelines, data transformation, analytics |
+| **System Security** | Authentication, RBAC, secure data handling |
+| **DevOps** | Docker, containerisation, deployment automation |
+
+---
+
+## Let's Connect
+
+<div align="center">
+  <a href="https://iamhuzaifasabahuddin.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:huzaifasabah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/huzaifa-sabah-uddin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Iamhuzaifasabahuddin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Open to collaboration, freelance opportunities & technical discussions</sub>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=Iamhuzaifasabahuddin&style=flat-square&color=58A6FF" alt="Profile views" />
+  <br />
+  <sub>Last updated: July 2026</sub>
+</div>
