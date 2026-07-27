@@ -1,4 +1,12 @@
 <div align="center">
+  <a href="https://iamhuzaifasabahuddin.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-iamhuzaifasabahuddin.github.io/Portfolio-58A6FF?style=for-the-badge&logo=About.me&logoColor=white&labelColor=1a1a2e" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Huzaifa+Sabah+Uddin;Backend+Engineer+%26+System+Architect;4+Production+Systems+%7C+%2415.6K%2Fyr+Saved" alt="Typing SVG" />
 </div>
 
@@ -151,6 +159,28 @@ A **personal budget tracker** with secure password-protected login, real-time ex
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamhuzaifasabahuddin&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="95%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamhuzaifasabahuddin&theme=github_dark" width="95%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamhuzaifasabahuddin&theme=github_dark" height="170em" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamhuzaifasabahuddin&theme=github_dark" height="170em" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamhuzaifasabahuddin&theme=github_dark" height="170em" alt="Commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Iamhuzaifasabahuddin&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="Trophies" />
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -184,20 +214,6 @@ A **personal budget tracker** with secure password-protected login, real-time ex
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamhuzaifasabahuddin&theme=github_dark" width="95%" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamhuzaifasabahuddin&theme=github_dark" height="170em" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamhuzaifasabahuddin&theme=github_dark" height="170em" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamhuzaifasabahuddin&theme=github_dark" height="170em" alt="Commits" />
 </div>
 
 ---
